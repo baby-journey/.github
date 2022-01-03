@@ -20,7 +20,7 @@
 - [ ] Test A
 - [ ] Test B
 
-# changes include?
+# Changes include?
 
 # Missed anything? ✅
 
