@@ -24,7 +24,7 @@
 
 # Missed anything? ✅
 
-- [ ] I have added the PR title properly e.g. Feature/#bab-1234 - description
+- [ ] I have added the PR title properly e.g. feat: short description
 - [ ] I have followed the proper branch naming convention
 - [ ] I have tested this code
 - [ ] I have updated wiki documentation
