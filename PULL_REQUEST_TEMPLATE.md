@@ -17,7 +17,6 @@
 
 
 ## Please review the guidelines for contributing to this repository ✅
-- [ ] I have added the PR title properly, e.g. feat:#bab-0000:title, fix:#bab-0000:title
 - [ ] I have followed the proper branch naming convention, e.g: feat/#bab-xxxx-title  
 - [ ] I have tested this code
 - [ ] I have added how to test
