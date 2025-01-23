@@ -20,5 +20,4 @@
 - [ ] I have followed the proper branch naming convention, e.g: feat/#bab-xxxx-title  
 - [ ] I have tested this code
 - [ ] I have added how to test
-- [ ] I have assigned PR to myself
 - [ ] I have assigned the correct label
