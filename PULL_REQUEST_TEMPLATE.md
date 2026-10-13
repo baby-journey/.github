@@ -16,6 +16,14 @@
 - Additional notes: <!-- Mention important details -->
 
 
+## AI change? (delete this section if not)
+<!-- Prompts, models, the RAG corpus, or an AI flag/secret. Checklist: bj-docs wiki/ai/changing-an-ai-feature -->
+- [ ] Model or provider updated where it is set, fallback checked
+- [ ] Prompt version bumped (e.g. `DOULA_PROMPT_VERSION`)
+- [ ] Evals run, pass rate pasted above
+- [ ] Tested on staging
+- [ ] Product README updated
+
 ## Please review the guidelines for contributing to this repository ✅
 - [ ] I have followed the proper branch naming convention, e.g: feat/#bab-xxxx-title  
 - [ ] I have tested this code
