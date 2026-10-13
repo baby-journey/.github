@@ -17,12 +17,13 @@
 
 
 ## AI change? (delete this section if not)
-<!-- Prompts, models, the RAG corpus, or an AI flag/secret. Checklist: bj-docs wiki/ai/changing-an-ai-feature -->
+<!-- Prompts, models, the RAG corpus or embedding pipeline, or an AI flag/secret. Full checklist: https://github.com/baby-journey/docs/blob/main/packages/docs-site/content/docs/wiki/ai/changing-an-ai-feature.mdx -->
 - [ ] Model or provider updated where it is set, fallback checked
 - [ ] Prompt version bumped (e.g. `DOULA_PROMPT_VERSION`)
-- [ ] Evals run, pass rate pasted above
+- [ ] Evals run, pass rate in Further comments
 - [ ] Tested on staging
 - [ ] Product README updated
+- [ ] After release: flow-health watched for a few days
 
 ## Please review the guidelines for contributing to this repository ✅
 - [ ] I have followed the proper branch naming convention, e.g: feat/#bab-xxxx-title  
