@@ -18,6 +18,7 @@
 
 ## AI change? (delete this whole section if not)
 <!-- Prompts, models, the RAG corpus or embedding pipeline, or an AI flag/secret. Full checklist: https://github.com/baby-journey/docs/blob/main/packages/docs-site/content/docs/wiki/ai/changing-an-ai-feature.mdx -->
+- [ ] New AI provider or model? Approved under the AI governance policy first
 - [ ] Model or provider updated where it is set, fallback checked
 - [ ] Prompt version bumped (e.g. `DOULA_PROMPT_VERSION`)
 - [ ] Evals run, pass rate in Further comments
